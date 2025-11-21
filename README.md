@@ -8,7 +8,7 @@ Este repositório serve para armazenar e exibir meus certificados de conclusão 
 
 | Curso | Instituição | Data de Conclusão | Visualizar Certificado |
 | :--- | :--- | :--- | :--- |
-| LINGUAGEM DE PROGRAMAÇÃO PYTHON - BÁSICO | Fundação Bradesco | 11/2025 | [Certificado (Clique para visualizar)](Certificado Python Fund. Bradesco.pdf) |
+| LINGUAGEM DE PROGRAMAÇÃO PYTHON - BASICO | Fundação Bradesco | 11/2025 | [Certificado (Clique para visualizar)](Certificado Python Fund. Bradesco.pdf) |
 
 ---
 
